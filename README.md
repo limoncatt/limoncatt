@@ -15,7 +15,7 @@
 
 **Hobbies**
 
-`Designer` `SkyRail PC Unreal (C++)`.
+`Designer` `3D Modeller`.
 
 **Names**
 
