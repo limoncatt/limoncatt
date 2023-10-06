@@ -3,7 +3,7 @@
 
 **Languages**
 
-`CSS` `HTML` `MARKDOWN` `PYTHON` `C#` `UNREAL BLUEPRINTS` `LUA`.
+`CSS` `HTML` `PYTHON` `C#` `C++` `LUA`.
 
 **Pronouns**
 
