@@ -7,7 +7,7 @@
 
 **Pronouns**
 
-`He` `Him` `dungeon master`.
+`She` `Her` `dungeon master`.
 
 **Projects**
 
