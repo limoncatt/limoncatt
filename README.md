@@ -1,29 +1,14 @@
-## **hi, im limoncatt.**
-<div align="center">
+## **Welciome**
+<div align="left">
 
 **Languages**
 
-`CSS` `HTML` `PYTHON` `C#` `C++` `LUA`.
-
-**Pronouns**
-
-`She` `Her` `dungeon master`.
+`PYTHON` `C#` `C++`.
 
 **Projects**
 
-`SkyRail PC Unity (C#)` `SkyTechDev Page (HTML + CSS)` `SkyRail PC Unreal (C++)`.
+``.
 
-**Hobbies**
-
-`Designer` `3D Modeller`.
-
-**Names**
-
-`limoncatt` `lemon cat` `???`.
-
-**Favourite Food**
-
-`Butter Toast` `Pizza` `McVegan`.
 </div>
 
 <img src="slash.png" height="40" width="20" alt="Slash"/>
