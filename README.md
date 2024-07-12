@@ -1,4 +1,4 @@
-## **Welciome**
+## **Welcome**
 <div align="left">
 
 **Languages**
@@ -7,7 +7,7 @@
 
 **Projects**
 
-``.
+`Project South (C++)`.
 
 </div>
 
