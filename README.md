@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=limoncatt&label=Profile%20views&color=52017e&style=flat" alt="limoncatt" /> </p>
 <h3 align="left">I'm a C++ Middle Developer and C# Senior Developer.</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limoncatt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limoncatt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Languages and software</h2>
 
