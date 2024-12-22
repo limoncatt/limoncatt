@@ -38,3 +38,7 @@ div.maincard1{
     outline: 0.1rem solid bisque;
     border-radius: 0.5rem;
 }
+
+div.title{
+    display: flex;
+}
