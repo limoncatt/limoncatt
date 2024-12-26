@@ -2,9 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=limoncatt&label=Profile%20views&color=52017e&style=flat" alt="limoncatt" /> </p>
 <h3 align="left">I'm a C++ Junior Developer and Python Junior Developer.</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limoncatt&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limoncatt&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limoncatt&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limoncatt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and software</h3>
 
