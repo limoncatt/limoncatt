@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm limoncatt</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=limoncatt&label=Profile%20views&color=52017e&style=flat" alt="limoncatt" /> </p>
-<h3 align="left">I'm a C++ Junior Developer and Python Junior Developer.</h3>
+<h3 align="left">I'm a Game Developer, C++ Junior Developer, and a Python Junior Developer.</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limoncatt&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
